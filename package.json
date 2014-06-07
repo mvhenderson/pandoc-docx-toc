@@ -1,6 +1,6 @@
 {
   "name": "docx-toc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds toc page to docx",
   "scripts": {
     "test": "sh ./test/test.sh"
