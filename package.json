@@ -28,7 +28,5 @@
   },
   "homepage": "https://github.com/mvhenderson/pandoc-docx-toc",
   "dependencies": {
-    "lodash": "~2.4.1",
-    "pandoc-filter": "~0.1.2"
   }
 }
