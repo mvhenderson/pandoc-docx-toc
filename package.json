@@ -1,0 +1,34 @@
+{
+  "name": "docx-toc",
+  "version": "0.0.0",
+  "description": "Adds toc page to docx",
+  "scripts": {
+    "test": "sh ./test/test.sh"
+  },
+  "bin": {
+    "docx-toc": "bin/docx-toc.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mvhenderson/pandoc-docx-toc.git"
+  },
+  "keywords": [
+    "pandoc",
+    "pandocfilter",
+    "docx"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "author": "Mike Henderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhenderson/pandoc-docx-toc/issues"
+  },
+  "homepage": "https://github.com/mvhenderson/pandoc-docx-toc",
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "pandoc-filter": "~0.1.2"
+  }
+}
